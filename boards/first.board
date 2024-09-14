@@ -1,0 +1,14 @@
+{
+    "canvases": [
+        {
+            "x": 568,
+            "y": 48,
+            "w": 393,
+            "h": 808,
+            "widget": "const start()",
+            "deps": [
+                "lib/start.dart"
+            ]
+        }
+    ]
+}
